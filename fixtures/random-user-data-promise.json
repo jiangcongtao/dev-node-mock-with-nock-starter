@@ -1,0 +1,112 @@
+[
+    {
+        "scope": "https://randomuser.me:443",
+        "method": "GET",
+        "path": "/api/",
+        "body": "",
+        "status": 200,
+        "response": {
+            "results": [
+                {
+                    "gender": "male",
+                    "name": {
+                        "title": "Mr",
+                        "first": "Anthony",
+                        "last": "Knight"
+                    },
+                    "location": {
+                        "street": {
+                            "number": 4005,
+                            "name": "Concession Road 23"
+                        },
+                        "city": "Campbellton",
+                        "state": "Yukon",
+                        "country": "Canada",
+                        "postcode": "F8J 0E2",
+                        "coordinates": {
+                            "latitude": "-65.6304",
+                            "longitude": "-25.0974"
+                        },
+                        "timezone": {
+                            "offset": "-9:00",
+                            "description": "Alaska"
+                        }
+                    },
+                    "email": "anthony.knight@example.com",
+                    "login": {
+                        "uuid": "171641fc-e272-46eb-9c55-5bd14d95224e",
+                        "username": "greengoose436",
+                        "password": "rrrrr",
+                        "salt": "4hCkz5TK",
+                        "md5": "6193ca015350284c4e60a9138681ee12",
+                        "sha1": "2d9649f9423aefa534426d874a0edef38a563157",
+                        "sha256": "28c27e4ac84dff679e9c3946fc5acba8c91ec559e3cdb0cdb49bda93f21815a1"
+                    },
+                    "dob": {
+                        "date": "1982-06-23T12:08:50.056Z",
+                        "age": 39
+                    },
+                    "registered": {
+                        "date": "2017-05-16T17:49:48.887Z",
+                        "age": 4
+                    },
+                    "phone": "386-311-2856",
+                    "cell": "218-313-4105",
+                    "id": {
+                        "name": "",
+                        "value": null
+                    },
+                    "picture": {
+                        "large": "https://randomuser.me/api/portraits/men/8.jpg",
+                        "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
+                        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg"
+                    },
+                    "nat": "CA"
+                }
+            ],
+            "info": {
+                "seed": "c02329bf82e8ef57",
+                "results": 1,
+                "page": 1,
+                "version": "1.3"
+            }
+        },
+        "rawHeaders": [
+            "Date",
+            "Fri, 02 Apr 2021 10:20:34 GMT",
+            "Content-Type",
+            "application/json; charset=utf-8",
+            "Transfer-Encoding",
+            "chunked",
+            "Connection",
+            "close",
+            "Set-Cookie",
+            "__cfduid=d9c1526b134839430e58525b1de2594091617358834; expires=Sun, 02-May-21 10:20:34 GMT; path=/; domain=.randomuser.me; HttpOnly; SameSite=Lax",
+            "X-Powered-By",
+            "Express",
+            "Access-Control-Allow-Origin",
+            "*",
+            "Cache-Control",
+            "no-cache",
+            "ETag",
+            "W/\"469-c4NrAyi3cNsgL7RNIIiDK91QItU\"",
+            "Vary",
+            "Accept-Encoding",
+            "CF-Cache-Status",
+            "DYNAMIC",
+            "cf-request-id",
+            "0933b262f90000e4c4a32e9000000001",
+            "Expect-CT",
+            "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Report-To",
+            "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report?s=lKB0O7RYOvesEH%2Bo2R9iDaLhdPWBTL4nzkuyn9P2lwWrFAKVCWnwYxiPpxgcp1HHCJod2TiWM496%2BOtx%2BhdLvhazVMeTl7HmiokF4L4I\"}],\"max_age\":604800,\"group\":\"cf-nel\"}",
+            "NEL",
+            "{\"max_age\":604800,\"report_to\":\"cf-nel\"}",
+            "Server",
+            "cloudflare",
+            "CF-RAY",
+            "6399534b2dd7e4c4-LAX"
+        ],
+        "responseIsBinary": false
+    }
+]
