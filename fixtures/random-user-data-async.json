@@ -8,64 +8,64 @@
         "response": {
             "results": [
                 {
-                    "gender": "female",
+                    "gender": "male",
                     "name": {
-                        "title": "Mrs",
-                        "first": "Evandra",
-                        "last": "Novaes"
+                        "title": "Mr",
+                        "first": "Muharrem",
+                        "last": "Schwanke"
                     },
                     "location": {
                         "street": {
-                            "number": 2352,
-                            "name": "Rua Paraná "
+                            "number": 1732,
+                            "name": "Kirchplatz"
                         },
-                        "city": "Pindamonhangaba",
-                        "state": "Espírito Santo",
-                        "country": "Brazil",
-                        "postcode": 52199,
+                        "city": "Cochem-Zell",
+                        "state": "Sachsen",
+                        "country": "Germany",
+                        "postcode": 85374,
                         "coordinates": {
-                            "latitude": "-77.6280",
-                            "longitude": "148.2971"
+                            "latitude": "-41.9105",
+                            "longitude": "-110.8142"
                         },
                         "timezone": {
-                            "offset": "+3:30",
-                            "description": "Tehran"
+                            "offset": "-9:00",
+                            "description": "Alaska"
                         }
                     },
-                    "email": "evandra.novaes@example.com",
+                    "email": "muharrem.schwanke@example.com",
                     "login": {
-                        "uuid": "5b9937a4-7911-4f8a-8531-8369dc7c2c4d",
-                        "username": "bigleopard305",
-                        "password": "catman",
-                        "salt": "Lhe8GPXw",
-                        "md5": "04e1b226664f9fc6c856326d05b4d471",
-                        "sha1": "b65f581571e1821ff4e2ad9adc5279a98b4013a0",
-                        "sha256": "c89145cae92e4bfafaf4ea2fdb023a49dde9a5c896889e842604e6a3dd082327"
+                        "uuid": "bc1282cd-136f-4850-b0ad-0cf4ac596e54",
+                        "username": "redswan138",
+                        "password": "585858",
+                        "salt": "eoA9HtbB",
+                        "md5": "bd94459d844934f52ccad12432206fbd",
+                        "sha1": "6a385927daaef4b74329ef5cf598c87cd83c006a",
+                        "sha256": "92d7d6922dda3ebc6ed98c9a9094b6aa7e86f70c967f2b6b64fccc3eb87217f7"
                     },
                     "dob": {
-                        "date": "1965-01-08T09:04:56.225Z",
-                        "age": 56
+                        "date": "1986-01-26T08:15:12.272Z",
+                        "age": 35
                     },
                     "registered": {
-                        "date": "2013-01-23T03:09:48.112Z",
-                        "age": 8
+                        "date": "2019-04-30T14:49:03.704Z",
+                        "age": 2
                     },
-                    "phone": "(74) 7173-8891",
-                    "cell": "(55) 2145-2586",
+                    "phone": "0683-6383373",
+                    "cell": "0174-6365003",
                     "id": {
                         "name": "",
                         "value": null
                     },
                     "picture": {
-                        "large": "https://randomuser.me/api/portraits/women/83.jpg",
-                        "medium": "https://randomuser.me/api/portraits/med/women/83.jpg",
-                        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/83.jpg"
+                        "large": "https://randomuser.me/api/portraits/men/26.jpg",
+                        "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
+                        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
                     },
-                    "nat": "BR"
+                    "nat": "DE"
                 }
             ],
             "info": {
-                "seed": "b0faa0eec6807281",
+                "seed": "ca3880eab0c4f12d",
                 "results": 1,
                 "page": 1,
                 "version": "1.3"
@@ -73,15 +73,13 @@
         },
         "rawHeaders": [
             "Date",
-            "Fri, 02 Apr 2021 10:20:35 GMT",
+            "Fri, 14 May 2021 01:52:02 GMT",
             "Content-Type",
             "application/json; charset=utf-8",
             "Transfer-Encoding",
             "chunked",
             "Connection",
             "close",
-            "Set-Cookie",
-            "__cfduid=df1d2b4502e93ae6a9ddab7cebe27d9b21617358835; expires=Sun, 02-May-21 10:20:35 GMT; path=/; domain=.randomuser.me; HttpOnly; SameSite=Lax",
             "X-Powered-By",
             "Express",
             "Access-Control-Allow-Origin",
@@ -89,23 +87,23 @@
             "Cache-Control",
             "no-cache",
             "ETag",
-            "W/\"47e-pPJrjWhJGdwr3k50Ycrss4gTZw4\"",
+            "W/\"468-zXAloWczP7RsUU9pTQzF9HQ6Wng\"",
             "Vary",
             "Accept-Encoding",
             "CF-Cache-Status",
             "DYNAMIC",
             "cf-request-id",
-            "0933b265330000eb0c6b305000000001",
+            "0a0a2be5a30000eb815f97e000000001",
             "Expect-CT",
             "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
             "Report-To",
-            "{\"max_age\":604800,\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report?s=EgYcdedtDeygy7TLJ27Iul5fBtW3ULNT1CH7OmZOF43v%2FLAPfUboLtzWv6b6BE9fm6XFvH4EIKEW8Jy%2FHgCtEc9bg4hAFNdz4VREekV5\"}],\"group\":\"cf-nel\"}",
+            "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report?s=UEEEMC3fjsFfgNqueygsnRYTL1vmQ2ZWWpHgWrZEAvXb2ry5xiGwHEiP8o%2BVr6paKtCx3YlpnTcAPLIpXrmetHYjzjRh%2BUdP%2FNc1BZuE\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
             "NEL",
             "{\"report_to\":\"cf-nel\",\"max_age\":604800}",
             "Server",
             "cloudflare",
             "CF-RAY",
-            "6399534ebeeceb0c-LAX"
+            "64f07c1c3af8eb81-LAX"
         ],
         "responseIsBinary": false
     }

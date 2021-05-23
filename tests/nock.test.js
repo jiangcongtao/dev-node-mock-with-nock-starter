@@ -3,6 +3,10 @@ const query = require('../lib/userQueryHelper');
 const defaultUser = require('../lib/defaultUser');
 const defaultOptions = require('../lib/nockHelper');
 
+// tell nock to record the http interactions and print on console
+// nock.recorder.rec();
+
+
 describe('userQueryHelper', () => {
     afterAll(nock.restore);
     afterEach(nock.cleanAll);

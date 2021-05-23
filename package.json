@@ -4,7 +4,9 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "jest"
+        "test": "jest",
+        "httpbin": "jest --silent=false --verbose tests/http-bin.test.js"
+
     },
     "keywords": [],
     "author": "",
